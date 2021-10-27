@@ -1,0 +1,6 @@
+{
+  "json_file": "data.json",
+  "app_name": "TodoApp",
+  "author": "Jędrzej Chołuj",
+  "protocols": "Codable"
+}
